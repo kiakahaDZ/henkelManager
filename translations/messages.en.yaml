@@ -19,6 +19,7 @@ backend:
     categories: Categories
     blog: Blog
     history: History
+    main: Sales Dashboard
   role:
     choice_role: Choose a role
   user:
@@ -52,4 +53,6 @@ backend:
     all_rights: All Rights Reserved.
     already_member: Already a member?
     log_in: Log in
+  btn:
+    data_import: import data 
 

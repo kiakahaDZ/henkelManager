@@ -19,6 +19,7 @@ backend:
     categories: Categorie
     blog: Blog
     history: Historique
+    main: Tableau de bord ventes
   role:
     choice_role: Choisissez un role
   user:
@@ -46,3 +47,5 @@ backend:
     changed_password: Mot de passe modifié
     add_user: Utilisateur ajouté
     modify_user: Utilisateur modifié
+  btn:
+    data_import: importer les donnees 
